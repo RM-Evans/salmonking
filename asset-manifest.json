@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/salmonking/static/css/main.f8987fb0.css",
+    "main.js": "/salmonking/static/js/main.e3f42b47.js",
+    "static/media/adders.png": "/salmonking/static/media/adders.4f63a42c7c2d73ea51e2.png",
+    "static/media/woozwheehpbd37.png": "/salmonking/static/media/woozwheehpbd37.eeaa4b0891e480a11bd2.png",
+    "static/media/fihsei1.png": "/salmonking/static/media/fihsei1.93d50fb55f125c7279ba.png",
+    "static/media/pic1.png": "/salmonking/static/media/pic1.d343d3a6189ba0736e81.png",
+    "static/media/ryleko1.png": "/salmonking/static/media/ryleko1.e576873c1d281b32fbce.png",
+    "static/media/LCOLONQ.png": "/salmonking/static/media/LCOLONQ.ff9ad0e8dfa9a2c605ca.png",
+    "index.html": "/salmonking/index.html",
+    "main.f8987fb0.css.map": "/salmonking/static/css/main.f8987fb0.css.map",
+    "main.e3f42b47.js.map": "/salmonking/static/js/main.e3f42b47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8987fb0.css",
+    "static/js/main.e3f42b47.js"
+  ]
+}
