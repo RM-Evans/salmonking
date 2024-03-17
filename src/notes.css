@@ -1,0 +1,39 @@
+/* .notesContainer {
+  border: red 2px solid;
+} */
+
+.note {
+  margin: auto;
+  margin-bottom: 100px;
+  width: 500px;
+}
+
+.note p {
+  white-space: break-spaces;
+  text-align: center;
+}
+.note > p :nth-child(1) {
+  text-align: left;
+}
+
+.noteImg {
+  border-radius: 3px;
+  max-width: 500px;
+}
+
+.usernameText {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 560px) {
+  .note {
+    max-width: 350px;
+  }
+
+  .noteSection {
+    padding: 0 10px;
+  }
+  .noteImg {
+    max-width: 350px;
+  }
+}
