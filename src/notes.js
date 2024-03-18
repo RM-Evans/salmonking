@@ -73,15 +73,20 @@ function notes() {
     {
       id: '8',
       picture: '',
-      // TODO figure out emote
       note: `Happy Birthday 37! Thanks for all the chill 'short' streams and good vibes when I'm up working in the AM-s. I love your work and I hope to continue being a part of your art journey for the next 4-5 years (average salmon lifespan) <3`,
       username: 'Kusabii',
+    },
+    {
+      id: '9',
+      picture: '',
+      note: `Happy Birthday 37!! Tysm for your comfy streams and beautiful art. I havent been able to come as often lately since you seem to stream when I...Fall asleep...HOWEVER, I hope you have a good day! Please continue blessing us with your streams, art and friendship!`,
+      username: 'kaoiame',
     },
   ]
 
   const allNotes = notes.map((note) => (
     <div className="note">
-      <img src={note.picture} className="noteImg" />
+      <img alt="" src={note.picture} className="noteImg" />
       <div className="noteSection">
         <p>{note.note}</p>
         <div key="id">
