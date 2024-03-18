@@ -75,7 +75,7 @@ function notes() {
       id: '8',
       picture: '',
       // TODO figure out emote
-      note: `Happy Birthday 37 :emote1: thanks for all the chill 'short' streams and good vibes when I'm up working in the AM-s. I love your work and I hope to continue being a part of your art journey for the next 4-5 years (average salmon lifespan) <3`,
+      note: `Happy Birthday 37! Thanks for all the chill 'short' streams and good vibes when I'm up working in the AM-s. I love your work and I hope to continue being a part of your art journey for the next 4-5 years (average salmon lifespan) <3`,
       username: 'Kusabii',
     },
   ]
