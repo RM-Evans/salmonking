@@ -1,4 +1,3 @@
-import img1 from './img/pic1.png'
 import ryleko from './img/ryleko1.png'
 import woozwhee from './img/woozwheehpbd37.png'
 import adders from './img/adders.png'

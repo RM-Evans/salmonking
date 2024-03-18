@@ -28,6 +28,7 @@ function App() {
           <div className="content">
             <img
               src={thirtySeven}
+              alt=""
               id="thirtySevPortrait"
               onClick={() =>
                 jsConfetti.addConfetti({
